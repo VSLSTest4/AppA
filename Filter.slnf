@@ -3,7 +3,8 @@
     "path": "AppA.sln",
     "projects": [
       "AppA\\AppA.csproj",
-      "AppC\\AppC.csproj"
+      "AppC\\AppC.csproj",
+      "newproject\\newproject.csproj"
     ]
   }
 }
