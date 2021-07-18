@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "path": "AppA.sln",
+    "projects": [
+      "AppA\\AppA.csproj",
+      "AppB\\AppB.csproj",
+      "AppC\\AppC.csproj",
+      "AppD\\AppD.csproj"
+    ]
+  }
+}
